@@ -1,0 +1,49 @@
+.module-4 .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.module-4 h5 {
+  color: #333333;
+  line-height: 30px;
+  font-size: 13px;
+}
+.module-4 h2 {
+  font-weight: bold;
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 63px;
+  letter-spacing: 5px;
+  color: #333333;
+}
+.module-4 h4 {
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: 0;
+  color: #888;
+}
+.module-4 h3 a {
+  color: #333333;
+  text-decoration: none;
+  font-family: "Open Sans", sans-serif;
+  background: #fff;
+  padding: 15px 40px;
+  display: inline-block;
+  font-size: 13px;
+}
+.module-4 .fullsize {
+  background: #ebebeb;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.module-4 .fullsize1 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+.module-4 .fullsize1 img {
+  max-width: 100%;
+}

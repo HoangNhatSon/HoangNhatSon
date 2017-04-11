@@ -1,0 +1,57 @@
+.module-2 .container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.module-2 .box {
+  padding-right: 6% !important;
+  padding-left: 6% !important;
+}
+.module-2 h5 {
+  margin-top: 50px;
+  text-align: center;
+  color: #333333;
+  line-height: 20px;
+  font-size: 13px;
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+}
+.module-2 h2 {
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 50px;
+  letter-spacing: 5px;
+  font-family: "Open Sans", sans-serif;
+}
+.module-2 h4 {
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: 0;
+  color: #bbb;
+  text-align: center;
+  font-family: "Open Sans", sans-serif;
+}
+.module-2 .hinh1 img {
+  height: auto;
+  max-width: 100%;
+}
+.module-2 .hinh2 img {
+  height: auto;
+  max-width: 100%;
+}
+.module-2 .outstory {
+  margin-top: 50px;
+  text-align: center;
+}
+.module-2 .member h5 {
+  font-size: 14px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #333;
+}
+.module-2 .member img {
+  text-align: center;
+}
