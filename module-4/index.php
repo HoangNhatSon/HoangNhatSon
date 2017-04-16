@@ -6,6 +6,14 @@
         <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
         <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+       
+        <?php
+        if (!class_exists('lessc')) {
+            include ('./libs/lessc.inc.php');
+        }
+        $less = new lessc;
+        $less->compileFile('less/1.less', 'css/1.css');
+        ?>
         <link href="css/1.css" rel="stylesheet" type="text/css" />
         
     </head>
@@ -30,12 +38,8 @@
                                 <img src="images/home1-main-image-4.jpg" alt=""/>
                             </div>
                         </div>
-                        
                     </div>
-              
-               
             </div>
-           
         </div>
      <div class="clearfix"></div>
     </body>
