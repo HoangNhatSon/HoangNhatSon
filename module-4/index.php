@@ -32,7 +32,7 @@
                                     tempor incidition ullamco laboris nisi ut aliquip ex ea commodo condor <br>
                                     consectetur adipiscing elit, sed do eiusmod tempor incidition ullam.
                                 </h4>
-                                <h3><a href="#" >VIEW OUT MENU</a></h3> 
+                                <h3><a href="#" >VIEW OUR MENU</a></h3> 
                             </div>
                             <div class="col-md-6">
                                 <img src="images/home1-main-image-4.jpg" alt=""/>
