@@ -1,0 +1,32 @@
+.module-9 img {
+  max-width: 100%;
+}
+.module-9 h3 {
+  font-size: 13px;
+  line-height: 1.4em;
+  padding: 5px 0;
+  color: #333;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+.module-9 .than {
+  margin-top: 100px;
+}
+.module-9 h1 {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 29px;
+  text-transform: Uppercase;
+  letter-spacing: 2px;
+}
+.module-9 h4 {
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: 0;
+  color: #555;
+  font-family: "Open Sans", sans-serif;
+}
+.module-9 .h41 {
+  margin-bottom: 20px;
+}
