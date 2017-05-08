@@ -1,7 +1,7 @@
 <html>
     <head>
     <title>title</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    
         <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
         <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
