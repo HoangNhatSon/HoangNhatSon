@@ -1,0 +1,70 @@
+.module-6 .ngang {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 120px;
+  width: 60%;
+}
+.module-6 .duoi {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 120px;
+  width: 60%;
+}
+.module-6 .duoi1 {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 120px;
+  width: 60%;
+}
+.module-6 .duoi2 {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 111px;
+  width: 60%;
+}
+
+.module-6 .duoi5 {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 131px;
+  width: 60%;
+}
+
+.module-6 .duoi3 {
+  border-bottom: 1px solid black;
+  position: absolute;
+  top: 22px;
+  margin-left: 100px;
+  width: 60%;
+}
+.module-6 .noidung .fa {
+  position: absolute;
+  top: 1px;
+  margin-left: 65px;
+  padding-top: 3px;
+}
+.module-6 .money {
+  float: right;
+  position: relative;
+  margin-top: -27px;
+}
+.module-6 .top {
+  text-align: center;
+  padding-bottom: 30px;
+  margin-top: 50px;
+}
+.module-6 .h2 {
+  font-size: 50px;
+}
+.module-6 .canh {
+  margin-bottom: 10px;
+}
+.module-6 a {
+  color: #949494;
+  text-decoration: none;
+}

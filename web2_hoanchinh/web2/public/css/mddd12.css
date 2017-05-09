@@ -1,0 +1,62 @@
+.module-12 .item {
+  text-align: left;
+}
+.module-12 .itemitem img {
+  width: 100%;
+  padding-top: 20px;
+  height: 300px;
+}
+.module-12 .item h4 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+.module-12 a h2{
+  font-size: 20px;
+  color: #000;
+}
+.module-12 .item h3 {
+  font-size: 13px;
+  color: #adadad;
+}
+.module-12 .item h5 {
+  font-size: 15px;
+  color: #adadad;
+}
+.module-12 .items {
+  margin-top: 15px;
+}
+.module-12 .chu {
+  text-align: center;
+  padding-left: 100px;
+}
+.module-12 .chu h1 {
+  font-weight: bold;
+}
+.module-12 .chu h5 {
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: 0;
+  color: #555;
+}
+.module-12 {
+  margin-top: 50px;
+}
+.module-12 .chu h1
+{
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 63px;
+  text-transform: Uppercase;
+  letter-spacing: 10px;
+}
+.module-12 .chu h4
+{
+  color: #333333;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Open Sans",sans-serif;
+}
+
+

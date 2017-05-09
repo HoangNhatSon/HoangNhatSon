@@ -1,0 +1,93 @@
+.module_19
+{
+  padding-top: 50px;
+}
+.module_19 img {
+  border: 0;
+  width: 100%;
+  padding: 0px;
+}
+.module_19 .hinh1 {
+  padding-top: 5px;
+}
+.module_19 .hinh {
+  width: 100%;
+  padding-top: 20px;
+}
+.module_19 .col-md-4 {
+  padding: 2px;
+}
+.module_19 .mot {
+  padding-right: 2px;
+  padding-left: 12px;
+}
+.module_19 .hai {
+  padding-right: 6px;
+  padding-left: 6px;
+}
+.module_19 .ba {
+  padding-left: 2px;
+  padding-right: 12px;
+}
+.module_19 .abc {
+  padding-bottom: 20px;
+}
+.module_19 .chu1 {
+  padding-left: 15px;
+  color: #000;
+}
+.module_19 .gach {
+  border: 1px solid #ebebeb;
+  width: 100%;
+}
+.module_19 .canhle {
+  padding-bottom: 15px;
+}
+.module_19 .gia {
+  padding-bottom: 8px;
+  padding-top: 13px;
+}
+.module_19 .nut {
+  float: right;
+  margin-top: -27px;
+  color: #000;
+}
+.module_19 .button {
+  border: 1px solid #ebebeb;
+  padding: 5px;
+}
+.module_19 .add {
+  margin-top: 30px;
+}
+.module_19 .add h4 a {
+  border: 1px solid #ebebeb;
+  padding: 5px;
+  text-decoration: none;
+}
+.module_19 .add h4 a:hover {
+  background: #DC143C;
+  color: #fff;
+  text-decoration: none;
+  padding: 5px;
+}
+.module_19 .button:hover {
+  background: #DC143C;
+  color: #fff;
+}
+.module_19 .nut1 .ban1 {
+  padding-right: 15px;
+}
+.module_19 .nut1 {
+  padding-top: 20px;
+}
+.module_19 .mota {
+  padding-top: 20px;
+  padding-bottom: 15px;
+}
+.module_19 .h4,
+.module_19 h4 {
+  font-size: 18px;
+  padding-top: 20px;
+  font-weight: 10px;
+  letter-spacing: 1px;
+}

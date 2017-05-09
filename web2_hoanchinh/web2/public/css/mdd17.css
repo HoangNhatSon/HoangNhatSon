@@ -1,0 +1,22 @@
+.module-17 .tang a {
+  border: 1px solid gray;
+  padding: 5px;
+  display: inline-block;
+  margin-bottom: -10px;
+  text-transform: uppercase !important;
+  text-decoration: none;
+  color: black;
+}
+.module-17 .tang a:hover {
+  background: #00BFFF;
+  color: #fff;
+}
+.module-17 h4 {
+  border-bottom: 2px solid black;
+  border-color: lightgray;
+  padding: 5px;
+}
+.module-17
+{
+  float: left;
+}

@@ -1,0 +1,12 @@
+.module7 .items ,itemh4{
+  margin-top: 100px;
+  text-align:center;
+}
+
+.module7 .items .item img
+{
+	max-width: 100%;
+	height: 120px;
+}
+
+

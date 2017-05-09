@@ -1,0 +1,64 @@
+.module-16 .search1 {
+  padding: 10px;
+  border: 1px solid #ebebeb;
+}
+.module-16 .fa {
+  padding: 13px;
+  margin-left: -5px;
+  color: black;
+  background-color: #fff;
+  border: 1px solid #ebebeb;
+}
+.module-16 .gach {
+  border: 1px solid #ebebeb;
+  width: 70%;
+}
+.module-16 .chu1 {
+  padding-top: 15px;
+}
+.module-16 .chu1 a {
+  color: #949494;
+  display: block;
+  margin: 0 0 13px 0;
+}
+.module-16 .gach1 {
+  border: 1px solid #ebebeb;
+  width: 70%;
+}
+.module-16 .hinh img {
+  margin-top: 25px;
+  width: 50%;
+  border-radius: 100%;
+  padding-right: 5px;
+}
+.module-16 .hinh span {
+  color: #949494;
+}
+.module-16 .chu3 {
+  position: absolute;
+  top: 0;
+  padding-top: 64px;
+  margin-left: -40px;
+}
+.module-16 .giatien {
+  margin-top: 53px;
+}
+.module-16 .giatien a {
+  color: #949494;
+}
+.module-16 .soup {
+  position: absolute;
+  margin-top: 50px;
+}
+.module-16 .lastitem {
+  margin-bottom: 20px;
+}
+.module-16 .col-md-12
+{
+  padding-right: 0px;
+}
+.module-16
+{
+  margin-top: 100px;
+  float: left;
+}

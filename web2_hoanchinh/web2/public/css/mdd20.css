@@ -1,0 +1,37 @@
+.module20 h1 {
+  font-size: 40px;
+  padding-left: 30px;
+  font-weight: bold;
+  padding-bottom: 50px;
+}
+.module20 h5 {
+  line-height: 30px;
+  font-size: 15px;
+  color: #333333;
+  float: right;
+  padding-right: 12px;
+}
+.module20 .hinh img {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 292px;
+  height: 196px;
+}
+.module20 h3 {
+  font-size: 15px;
+  float: left;
+  padding-left: 12px;
+  font-weight: bold;
+}
+.module20 .fullsize {
+  margin-top: 100px;
+  background: #fff;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.module20 .icon {
+  margin-top: 70px;
+  padding-left: 10px;
+  padding-right: 100px;
+  width: 100%;
+}

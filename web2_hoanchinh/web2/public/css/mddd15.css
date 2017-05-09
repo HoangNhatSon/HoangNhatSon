@@ -1,0 +1,39 @@
+.module-15 h5 {
+  line-height: 30px;
+  font-size: 13px;
+  color: #333333;
+  float: right;
+  padding-right: 12px;
+}
+.module-15 .hinh img {
+  padding-left: 15px;
+  padding-right: 15px;
+  width: 307px;
+  height: 207px;
+  border-radius: 50px;
+}
+.module-15 h3 {
+  font-size: 15px;
+  float: left;
+  padding-left: 10px;
+  font-weight: bold;
+}
+.module-15 .fullsize {
+  margin-top: 100px;
+  background: #fff;
+}
+.module-15 .chu {
+  padding-left: 50px;
+}
+.module-15 .icon {
+  margin-top: 70px;
+  padding-left: 10px;
+  padding-right: 100px;
+  width: 100%;
+}
+
+.module-15 .hai
+{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}

@@ -1,0 +1,85 @@
+.module-8 {
+  background: url(../images/hinh_md8.jpg);
+}
+.module-8 h5 {
+  line-height: 30px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  padding-top: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  margin-top: 80px;
+}
+.module-8 h2 {
+  font-size: 42px;
+  color: #ffffff;
+  font-weight: 600;
+  line-height: 63px;
+  letter-spacing: 5px;
+  text-align: center;
+}
+.module-8 h4 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 28px;
+  letter-spacing: 0;
+  font-family: "Open Sans", sans-serif;
+}
+.module-8 .inputleft {
+  float: right;
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.module-8 .inputright {
+  padding: 10px 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.module-8 .textarea {
+  text-align: center;
+  padding-bottom: 50px;
+}
+.module-8 textarea {
+  width: 54%;
+  margin-bottom: 10px;
+  padding: 18px 22px;
+  border: 2px solid #ebebeb;
+  font-size: 11px;
+  color: #909090;
+  font-weight: 400;
+  letter-spacing: 1px;
+}
+
+.module-8 a
+{
+  color: #fff;
+  border: 2px solid #fff;
+  padding: 20px 30px 20px 30px;
+  background: transparent;
+}
+
+.module-8 a:hover
+{
+  color: #000;
+  border: 2px solid #fff;
+  padding: 20px 30px 20px 30px;
+  background: transparent;
+  background: #fff;
+}
+
+.module-8 .inputright
+{
+  float: left;
+}
+.module-8 
+{
+  text-align: center;
+  padding-bottom: 80px;
+}
+
+
