@@ -11,6 +11,7 @@
                     <div class="item active">
                         <img src="images/home1-main-parallax-1.jpg" alt=""/>
                         <div class="carousel-caption">
+                            <img src="images/testimonial2.jpg" alt=""/>
                             <h4><?php echo $content[16]['content_noidung'] ?></h4>
                             <h5>Mario Andretti</h5>
                         </div>
