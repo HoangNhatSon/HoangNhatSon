@@ -2,7 +2,6 @@
     <head>
     <title>title</title>
     <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
      <script src="jquery/jquery-3.2.0.min.js" type="text/javascript"></script>
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
      <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
@@ -64,7 +63,7 @@
                 </div>
                 <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
                     <span class="glyphicon glyphicon-chevron-left"></span></a><a class="right carousel-control"
-                         data-slide="next"><span class="glyphicon glyphicon-chevron-right">
+                        href="#carousel-example-generic" data-slide="next"><span class="glyphicon glyphicon-chevron-right">
                         </span></a>
             </div>
         </div>

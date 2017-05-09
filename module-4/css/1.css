@@ -47,3 +47,7 @@
 .module-4 .fullsize1 img {
   max-width: 100%;
 }
+.module-4 a:hover {
+  background: #000 00;
+  color: #fff;
+}

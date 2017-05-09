@@ -35,3 +35,8 @@
   text-align: center;
   color: #fff;
 }
+.module-2 .h3 a:hover,
+.module-2 h3 a:hover {
+  color: #fff;
+  background: #000;
+}

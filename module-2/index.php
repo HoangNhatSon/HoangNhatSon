@@ -2,7 +2,6 @@
     <head>
     <title>title</title>
     <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-    <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
      <script src="jquery/jquery-3.2.0.min.js" type="text/javascript"></script>
      <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
      <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js"></script>
@@ -45,7 +44,7 @@
                             sedolorm reminusto <br> doeiusmod tempor incidition ulla mco laboris nisi ut aliquip 
                             ex ea commo <br> condorico consectetur adipiscing elitut aliquip.
                             </h4>
-                            <a href="#"><h3>VIEW OUT MENU</h3></a> 
+                            <a href="#" class="animation"><h3>VIEW OUT MENU</h3></a> 
                         </div>
                     </div>
                     <div class="item">

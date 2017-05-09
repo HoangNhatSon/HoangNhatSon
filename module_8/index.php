@@ -1,10 +1,9 @@
-
+﻿
 <html>
 <head>
 
   <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
   <link href="bootstrap-3.3.6-dist/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-  <script src="bootstrap-3.3.6-dist/js/bootstrap.min.js" type="text/javascript"></script>
   <link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
   <?php
   if (!class_exists('lessc')) {
@@ -51,7 +50,7 @@
       </div>
     </div>
     <div class="textarea">
-    <textarea cols="40" rows="5" aria-invalid="false" placeholder="Notes"> </textarea>>
+      <textarea cols="40" rows="5" aria-invalid="false" placeholder="Notes"> </textarea>>
     </div>
   </div>
 </body>
